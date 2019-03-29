@@ -1,7 +1,14 @@
-COUNTRY,TITLE OF SURVEY,YEAR,"REPRESEN-TATIVENESS","AGEGROUP(YEARS)","CURRENT TOBACCO SMOKING%","DAILY TOBACCO SMOKING%","CURRENT CIGARETTESMOKING %","DAILY CIGARETTE SMOKING%",,,,,,,,,
+COUNTRY,TITLE OF SURVEY,YEAR,"REPRESEN-
+TATIVENESS","AGE
+GROUP
+(YEARS)","CURRENT TOBACCO SMOKING
+%","DAILY TOBACCO SMOKING
+%","CURRENT CIGARETTE
+SMOKING %","DAILY CIGARETTE SMOKING
+%",,,,,,,,,
 "",,,,,,MALE,FEMALE,TOTAL,MALE,FEMALE,TOTAL,MALE,FEMALE,TOTAL,MALE,FEMALE,TOTAL
 Albania,Demographic and Health Survey,2008-09,National,15–49,44.7,4.2,. . .,. . .,. . .,. . .,42.5,4.2,. . .,42.3,4.1,. . .,
-Andorra,National Health Survey,,2011,National,15+,37.4,27.7,. . .,35.3,25.5,. . .,. . .,. . .,. . .,. . .,. . .,. . .
+Andorra,National Health Survey,2011,National,15+,37.4,27.7,. . .,35.3,25.5,. . .,. . .,. . .,. . .,. . .,. . .,. . .
 Armenia,STEPS Survey,2016,National,18–69,51.5,1.8,27.9,49.9,1.6,26.9,. . .,. . .,. . .,. . .,. . .,. . .,
 Austria,Representative Survey on Substance Abuse,2015,National,15+,30.2,23.8,26.9,18.9,15.8,17.3,. . .,. . .,. . .,. . .,. . .,. . .,
 Azerbaijan,Household Budget Survey,2015,National,15+,. . .,. . .,. . .,. . .,. . .,. . .,35.5,0,17.0,. . .,. . .,. . .,
@@ -47,9 +54,11 @@ Spain,European Health Interview Survey,2014,National,15+,30.4,20.5,25.4,27.6,18.
 Sweden,National Survey of Public Health,2015,National,16–84,20,19,20,9,11,10,. . .,. . .,. . .,. . .,. . .,. . .,
 Switzerland,Addiction Monitoring survey,2014,National,15+,28.8,21.1,24.9,19.6,15.1,17.3,. . .,. . .,. . .,. . .,. . .,. . .,
 Tajikistan,Demographic and Health Survey,2012,National,15–49,. . .,0.3 1,. . .,. . .,. . .,. . .,. . .,0.3,. . .,. . .,0.2,. . .,
-"The former Yugoslav Republic ofMacedonia",Multiple Indicator Cluster Survey,2011,National,15–49,. . .,30 1,. . .,. . .,. . .,. . .,. . .,29.9,. . .,. . .,. . .,. . .,
+"The former Yugoslav Republic of
+Macedonia",Multiple Indicator Cluster Survey,2011,National,15–49,. . .,30 1,. . .,. . .,. . .,. . .,. . .,29.9,. . .,. . .,. . .,. . .,
 Turkey,Global Adult Tobacco Survey,2016,National,15+,43.7,18.2,30.9,41.4,16.3,28.8,. . .,. . .,. . .,. . .,. . .,. . .,
 Turkmenistan,STEPS Survey,2013-14,National,18–64,15.5,0.6,8.3,11.5,0.5,6.3,13.3,0.5,7.1,10.3,0.5,5.6,
 Ukraine,Kyiv International Institute of Sociology Face-to-Face Survey,2015,National,18+,45.0,10.6,. . .,42.4,9.0,. . .,. . .,. . .,. . .,. . .,. . .,. . .,
-"United Kingdom of Great Britainand Northern Ireland 3",Integrated Household Survey,2014,National,18+,. . .,. . .,. . .,. . .,. . .,. . .,20.7,15.9,18.3,20.1,15.4,17.8,
+"United Kingdom of Great Britain
+and Northern Ireland 3",Integrated Household Survey,2014,National,18+,. . .,. . .,. . .,. . .,. . .,. . .,20.7,15.9,18.3,20.1,15.4,17.8,
 Uzbekistan,STEPS Survey,2014,National,18–64,26.8,1.4,14.4,16.6,0.9,9.0,. . .,. . .,. . .,14.9,0.9,8.1,
