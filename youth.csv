@@ -1,6 +1,9 @@
-COUNTRY,TITLE OF SURVEY,,YEAR,"REPRESENTATIVE-NESS","AGEGROUP(YEARS)",INDICATOR NO. 1,INDICATOR NO. 2,,,,,,
-"",,,,,,DESCRIPTION,PREVALENCE %,DESCRIPTION,PREVALENCE %,,,,
-"",,,,,,MALE,FEMALE,TOTAL,MALE,FEMALE,TOTAL,,
+COUNTRY,TITLE OF SURVEY,,YEAR,"REPRESENTATIVE-
+NESS","AGE
+GROUP
+(YEARS)",INDICATOR NO. 1,INDICATOR NO. 2,,,,,,
+"",,,,,,DESCRIPTION,PREVALENCE %,,,DESCRIPTION,PREVALENCE %,,
+"",,,,,,,MALE,FEMALE,TOTAL,,MALE,FEMALE,TOTAL,,
 Albania,Global Youth Tobacco Survey,,2015,National,13–15,Current tobacco use,14.5,6.7,10.7,Current cigarette smoking,8.3,3.6,6.0
 Andorra,. . .,,. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .,. . .
 Armenia,Health Behaviour in School-aged Children,,2013-14,National,15–15,Current tobacco smoking 1,5,1,3,Daily tobacco smoking,4,1,. . .
@@ -17,7 +20,8 @@ Denmark,Health Behaviour in School-aged Children,,2014,National,15–15,Current 
 Estonia,Health Behaviour in School-aged Children,,2014,National,15–15,Current tobacco smoking 1,13,11,. . .,Daily tobacco smoking,9,7,. . .
 Finland,Adolescent Health and Lifestyle Survey,,2015,National,14–14,Current tobacco smoking,2,3,2,. . .,. . .,. . .,. . .
 France,Health Behaviour in School-aged Children,,2013-14,National,15–15,Current tobacco smoking 1,18,20,. . .,Daily tobacco smoking,11,12,. . .
-Georgia,The European School Survey Project on Alcohol and Other Drugs,,2015,National,"Grade 10 (agearound 16)",Current cigarette smoking,26,9,18,Daily cigarette smoking,4,12,19
+Georgia,The European School Survey Project on Alcohol and Other Drugs,,2015,National,"Grade 10 (age
+around 16)",Current cigarette smoking,26,9,18,Daily cigarette smoking,4,12,19
 Germany,The Drug Affinity of Young People in the Federal Republic of Germany,,2015,National,12–17,Current tobacco smoking,9.3,10.0,9.6,Daily tobacco smoking,3.4,3.5,3.5
 Greece,Health Behaviour in School-aged Children,,2013-14,National,15–15,Current tobacco smoking 1,16,13,. . .,Daily tobacco smoking,13,10,. . .
 Hungary,Global Youth Tobacco Survey,,2016,National,13–15,Current tobacco use,25,25,25,Current cigarette smoking,16,20,18
@@ -48,9 +52,11 @@ Spain,Health Behaviour in School-aged Children,,2013-14,National,15–15,Current
 Sweden,Alcohol and Drug Use among Students,,2015,National,15–16,Current cigarette smoking,10,14,. . .,. . .,. . .,. . .,. . .
 Switzerland,Health Behaviour in School-aged Children,,2013-14,National,15–15,Current tobacco smoking 1,11,9,. . .,Daily tobacco smoking,6,6,. . .
 Tajikistan,Global Youth Tobacco Survey,,2014,National,13–15,Current tobacco use,4.8,2.7,4.1,Current cigarette smoking,1.0,0.5,0.8
-"The former Yugoslav Republic ofMacedonia",Global Youth Tobacco Survey,,2016,National,13–15,Current tobacco use,14.6,9.8,12.4,. . .,. . .,. . .,. . .
+"The former Yugoslav Republic of
+Macedonia",Global Youth Tobacco Survey,,2016,National,13–15,Current tobacco use,14.6,9.8,12.4,. . .,. . .,. . .,. . .
 Turkey,Global Youth Tobacco Survey,,2012,National,13–15,Current tobacco use,20.3,12.8,16.8,Current cigarette smoking,12.1,8.3,10.4
 Turkmenistan,Global Youth Tobacco Survey,,2015,National,13–15,Current tobacco use,0.2,0.4,0.3,Current cigarette smoking,0.1,. . .,. . .
 Ukraine,The European School Survey Project on Alcohol and Other Drugs,,2015,National,16–16,Current cigarette smoking,25.7,13.2,19.2,Daily cigarette smoking,18.4,6.4,12.1
-"United Kingdom of Great Britainand Northern Ireland 3",Health Behaviour in School-aged Children (England),,2014,Subnational,15–15,Current tobacco smoking 1,6,8,7,Daily tobacco smoking,4,5,4
+"United Kingdom of Great Britain
+and Northern Ireland 3",Health Behaviour in School-aged Children (England),,2014,Subnational,15–15,Current tobacco smoking 1,6,8,7,Daily tobacco smoking,4,5,4
 Uzbekistan,Global Youth Tobacco Survey,2013,National,13–15,Current tobacco use,14.2,13.9,14.0,Current cigarette smoking,1.0,0.4,0.7,
